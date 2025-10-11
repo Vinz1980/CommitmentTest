@@ -1,5 +1,5 @@
-# CommitmentTest
-# Commit 1
+# PING test
+# PING 1
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.24;
 
