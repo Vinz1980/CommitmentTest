@@ -32,3 +32,5 @@ contract Ping {
         emit Pinged(msg.sender, uniquePingers);
     }
 }
+
+Check it out
