@@ -53,3 +53,5 @@ contract Ping {
 }
 
 PING PING
+
+TEST PING
